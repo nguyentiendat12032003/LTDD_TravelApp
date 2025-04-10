@@ -1,0 +1,2 @@
+- Upload firebase.json lên firebase để load dữ liệu 
+- Folder Recomendation_System_FastApi ở đây em thực hiện contentfiltering để lọc dữ liệu phù hợp cho từng user và đưa lên API để ứng dụng có thể lấy và chạy nên để chạy trước hết chạy lệnh uvicorn recomdation:app --reload với url /recommed/userid (dat,test1)

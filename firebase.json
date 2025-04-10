@@ -1,0 +1,299 @@
+{
+  "Category": {
+    "acientcity": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/old-house_uguzus.png",
+      "name": "Thành Phố Cổ"
+    },
+    "beach": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093060/shore_h8qing.png",
+      "name": "Bãi Biển"
+    },
+    "desert": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093060/desert_bzjwnc.png",
+      "name": "Sa Mạc"
+    },
+    "forest": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/river_shqbwe.png",
+      "name": "Rừng"
+    },
+    "moderncity": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/street_bbyguu.png",
+      "name": "Thành Phố Hiện Đại"
+    },
+    "mountain": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/mountain_1_lxopbq.png",
+      "name": "Núi Non"
+    },
+    "volcanic": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/volcanic_lhphgt.png",
+      "name": "Núi Lửa"
+    },
+    "waterfall": {
+      "imagePath": "https://res.cloudinary.com/dcytffjcb/image/upload/v1744093059/waterfall_fc4d28.png",
+      "name": "Thác Nước"
+    }
+  },
+  "Popular": {
+    "condao": {
+      "Score": 4.9,
+      "address": "Côn Đảo, Bà Rịa - Vũng Tàu, Việt Nam",
+      "bed": 1,
+      "dateTour": "2024-10-05",
+      "description": "Côn Đảo - thiên đường ẩn mình với bãi biển hoang sơ và rừng nguyên sinh kỳ bí...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Bãi Biển",
+        "Rừng"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145918/con-dao-14-410_v102mu.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145921/Vuon-quoc-gia-Con-Dao-3_c7mwww.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145927/con-dao_dh27mv.jpg"
+      ],
+      "price": 650,
+      "timeTour": "11:00",
+      "title": "Côn Đảo"
+    },
+    "dalat": {
+      "Score": 4.7,
+      "address": "Đà Lạt, Lâm Đồng, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-09-01",
+      "description": "Đà Lạt - thành phố cổ giữa rừng nguyên sinh và thác nước hùng vĩ...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Rừng",
+        "Thác Nước"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145716/R_1_gmc8bc.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145716/R_g9lvbn.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145716/OIP_pavubj.jpg"
+      ],
+      "price": 550,
+      "timeTour": "08:00",
+      "title": "Đà Lạt"
+    },
+    "danang": {
+      "Score": 4.9,
+      "address": "Đà Nẵng, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-07-05",
+      "description": "Đà Nẵng - thành phố hiện đại với những bãi biển tuyệt đẹp trải dài...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Bãi Biển",
+        "Thành Phố Hiện Đại"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145480/view-over-danang-beach-area-vietnam-d357a11e76e0_sdazfr.avif",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145480/0ea22248094ae7550cec591cc00a9ff4_eydkr0.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145481/Golden-Bridge-Ba-Na-Hills_kyxgus.jpg"
+      ],
+      "price": 700,
+      "timeTour": "10:00",
+      "title": "Đà Nẵng"
+    },
+    "halongbay": {
+      "Score": 4.8,
+      "address": "Hạ Long, Quảng Ninh, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-06-15",
+      "description": "Khám phá vẻ đẹp hùng vĩ của các đảo đá vôi tại Vịnh Hạ Long...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Bãi Biển",
+        "Núi"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073308/beautiful-viewpoint-koh-nangyuan-island-surat-thani-thailand_sdmkgr.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073834/phan-thiet-map-02_1692105851_l3olxb.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073371/R_1_ktkdop.jpg"
+      ],
+      "price": 500,
+      "timeTour": "09:00",
+      "title": "Halong Bay"
+    },
+    "hoian": {
+      "Score": 4.8,
+      "address": "Hội An, Quảng Nam, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-07-25",
+      "description": "Hội An - thành phố cổ kính với những con phố đèn lồng rực rỡ...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Thành Phố Cổ"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146228/hoi-an_tghmbw.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146233/from-hanoi-to-hoi-an-thumb_wpbucr.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146234/Hoi-An-11-3-scaled_xdq3ys.jpg"
+      ],
+      "price": 550,
+      "timeTour": "10:00",
+      "title": "Hội An"
+    },
+    "mekongdelta": {
+      "Score": 4.7,
+      "address": "Đồng bằng Sông Cửu Long, Việt Nam",
+      "bed": 1,
+      "dateTour": "2024-08-10",
+      "description": "Mekong Delta - vùng sông nước miệt vườn với hệ thống kênh rạch...",
+      "distance": "",
+      "duration": "2D / 1N",
+      "keyword": [
+        "Rừng"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146301/OIP_1_gob35f.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146301/OIP_pe1gfj.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743146302/Blog-Delta-de-Mekong-My-Tho-unsplash_i6z4iz.jpg"
+      ],
+      "price": 400,
+      "timeTour": "07:30",
+      "title": "Mekong Delta"
+    },
+    "nhatrang": {
+      "Score": 4.8,
+      "address": "Nha Trang, Khánh Hòa, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-08-15",
+      "description": "Nha Trang - thiên đường nghỉ dưỡng với bãi biển xanh ngọc...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Bãi Biển",
+        "Thành Phố Hiện Đại"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145555/R_glh7zi.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145554/Nha-Trang_hu5sfz.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743145554/hinh-anh-nha-trang-vao-buoi-chieu-toi_n2f5jo.jpg"
+      ],
+      "price": 600,
+      "timeTour": "09:30",
+      "title": "Nha Trang"
+    },
+    "phanthiet": {
+      "Score": 4.6,
+      "address": "Phan Thiết, Bình Thuận, Việt Nam",
+      "bed": 2,
+      "dateTour": "2024-06-25",
+      "description": "Thư giãn trên những bãi biển dài tuyệt đẹp ở Phan Thiết...",
+      "distance": "",
+      "duration": "2D / 1N",
+      "keyword": [
+        "Bãi Biển",
+        "Sa Mạc"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073835/phan-thiet-vietnam-1_1693391498_d9wwdt.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073834/phan-thiet-map-02_1692105851_l3olxb.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073834/phan-thiet_rrvzxv.jpg"
+      ],
+      "price": 450,
+      "timeTour": "11:00",
+      "title": "Phan Thiết"
+    },
+    "phongnhacave": {
+      "Score": 4.7,
+      "address": "Phong Nha, Quảng Bình, Việt Nam",
+      "bed": 1,
+      "dateTour": "2024-07-10",
+      "description": "Khám phá những hang động bí ẩn và con sông ngầm tại Phong Nha...",
+      "distance": "",
+      "duration": "2D / 1N",
+      "keyword": [
+        "Núi",
+        "Rừng"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073555/phrayanakorn-cave-prachuap-khiri-khan-province-thailand_o6utva.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073581/wide-angle-shot-inside-cango-caves-boplaas-south-africa_kvmtws.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073612/R_zxo7wc.jpg"
+      ],
+      "price": 350,
+      "timeTour": "10:00",
+      "title": "Phong Nha Cave"
+    },
+    "sapa": {
+      "Score": 4.9,
+      "address": "Sapa, Lào Cai, Việt Nam",
+      "bed": 3,
+      "dateTour": "2024-08-01",
+      "description": "Trekking qua những cánh đồng bậc thang tuyệt đẹp của Sapa...",
+      "distance": "",
+      "duration": "3D / 2N",
+      "keyword": [
+        "Núi",
+        "Rừng"
+      ],
+      "pic": [
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073754/OIP_ngmoz7.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073754/Lao-Ch%E1%BA%A3i-_-T%E1%BA%A3-Van_qjymse.jpg",
+        "https://res.cloudinary.com/dcytffjcb/image/upload/v1743073754/sapa-overview_anmlqr.png"
+      ],
+      "price": 650,
+      "timeTour": "08:00",
+      "title": "Sapa"
+    }
+  },
+  "Users": {
+    "dat": {
+      "address": "357 Tân Hòa Đông, P.Bình Trị Đông, Q.Bình Tân",
+      "bookedTours": {
+        "condao": "condao",
+        "danang": "danang",
+        "halongbay": "halongbay"
+      },
+      "bookmarks": {
+        "condao": "condao",
+        "danang": "danang"
+      },
+      "email": "dat",
+      "password": "dat",
+      "preferences": [
+        "Bãi biển",
+        "Thành phố hiện đại",
+        "Khách sạn"
+      ]
+    },
+    "test1": {
+      "address": "12 Thùy Vân, Bà Rịa Vũng Tàu",
+      "bookmarks": {
+        "hoian": "hoian",
+        "mekongdelta": "mekongdelta"
+      },
+      "email": "test1",
+      "password": "test1",
+      "preferences": [
+        "Núi non",
+        "Rừng nguyên sinh",
+        "Thành phố cổ",
+        "Homestay",
+        "Cắm trại"
+      ]
+    },
+    "test2": {
+      "address": "",
+      "bookmarks": [
+        "phanthiet",
+        "nhatrang"
+      ],
+      "email": "test2",
+      "password": "test2",
+      "preferences": [
+        "Sa mạc",
+        "Thành phố hiện đại",
+        "Thành phố cổ",
+        "Khách sạn",
+        "Cắm trại"
+      ]
+    }
+  }
+}
